@@ -1,5 +1,7 @@
 🌐 Suganya Ravindran: Global Cloud Portfolio Site
+
 Project Summary
+
 This project demonstrates the deployment of a low-latency, highly-available, and secure static website using core Amazon Web Services (AWS) Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS) offerings.
 
 The primary objective was to deploy a basic HTML/CSS portfolio and serve it globally with maximum performance and HTTPS security while minimizing operational overhead.
